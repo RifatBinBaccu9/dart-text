@@ -1,3 +1,5 @@
+var name = "rifat";
+
 void main() {
-  print("Hello World!!");
+  print(name);
 }
